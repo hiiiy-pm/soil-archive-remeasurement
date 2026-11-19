@@ -1,0 +1,20 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "win32",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.16.3",
+    "openpyxl": "3.1.5"
+  },
+  "thread_settings": "The finite-archive simulation defaults OPENBLAS_NUM_THREADS and OMP_NUM_THREADS to 1. The spectral and directional simulations set both variables to 1.",
+  "figure_generation": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "matplotlib": "3.11.2",
+    "scope": "Reads archived scores and diagnostics to render figures. Sampling and reconstruction were executed with the main package versions above.",
+    "scipy": "1.16.3"
+  },
+  "directional_analysis": "Python 3.12.14, NumPy 2.3.5, pandas 3.0.1 and SciPy 1.16.3."
+}
